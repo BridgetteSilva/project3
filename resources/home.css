@@ -1,0 +1,92 @@
+html{
+	font-family: baskerville;
+	font-size: 1vw;
+	background-color: #151515;
+}
+
+body{
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+}
+
+.book{
+	background: black;
+	height: 3.75rem;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	width: 100%;
+}
+.boxed{
+	background: white;
+}
+							
+.book-button{
+	display: flex;
+	margin-top: .937rem;
+	content: center;
+	color: white;
+	font-size: 1.25rem;
+	padding-top: 2%;
+
+}
+
+
+.box {
+  width: 33.3333333%;
+
+}
+
+.box-logo{
+	align-content: center;
+	margin-left: 45%;
+	padding-top: 5.5rem;
+	padding-bottom: 1.5rem;
+
+}
+
+.menu{
+	background:black;
+	height: 3.125rem;
+	display: flex;
+	justify-content: center;
+}
+
+.menu-button{
+	color:white;
+	padding: 5rem;
+	font-size: .875rem;
+}
+
+
+.illustration{
+	width: 100%;
+}
+
+.homeillustration{
+	align-content: center;
+	width: 100%;
+}
+
+.homephotos1 {
+	width: 33.33333333%;
+	margin-bottom: -4px;
+}
+
+.home-photos{
+	width: 100%;
+	display: inline-flex; 
+	align-items: center;
+}
+.contactinformation{
+color: #707070;
+font-size: 10pt;
+margin-top: 3.125rem;
+margin-bottom: 3.125rem;
+text-align: center;
+}
+.contactinfo2{
+margin-top: 0.625rem;
+}
